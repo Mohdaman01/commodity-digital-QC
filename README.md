@@ -1,3 +1,13 @@
+It'a PWA(Progressive Web Application) for Commodity Digital Quality Control.
+This app is build upon Next.js, using Next.js's client-side and server-side features.
+
+If you are viewing the app on mobile you can click the picture of the commodity or if you are viewing the app on desktop you can select the picture form the file and submit it.
+It generate a report for the commmodity and give you access to downlaod in the form PDF.
+
+Future fetures: 1) Loading screen
+                2) User modul
+                3) Data Base integeration
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
