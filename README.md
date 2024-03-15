@@ -1,4 +1,4 @@
-It'a PWA(Progressive Web Application) for Commodity Digital Quality Control.
+It's a PWA(Progressive Web Application) for Commodity Digital Quality Control.
 This app is build upon Next.js, using Next.js's client-side and server-side features.
 
 If you are viewing the app on mobile you can click the picture of the commodity or if you are viewing the app on desktop you can select the picture form the file and submit it.
